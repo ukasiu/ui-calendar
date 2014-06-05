@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-calendar",
+  "name": "ukasiu-angular-ui-calendar",
   "version": "0.8.1",
   "description": "A complete AngularJS directive for the Arshaw FullCalendar.",
   "author": "https://github.com/angular-ui/ui-calendar/graphs/contributors",
@@ -20,7 +20,7 @@
     "moment": "2.5.1",
     "jquery": "~1.10.2",
     "jquery-ui": "~1.10.3",
-    "fullcalendar": "~1.x"
+    "fullcalendar": "~2.x"
   },
   "devDependencies": {
     "angular-mocks": "~1.x",
