@@ -1,6 +1,6 @@
 {
-  "name": "angular-ui-calendar",
-  "version": "0.8.1",
+  "name": "ukasiu-angular-ui-calendar",
+  "version": "0.8.2",
   "description": "A complete AngularJS directive for the Arshaw FullCalendar.",
   "author": "https://github.com/angular-ui/ui-calendar/graphs/contributors",
   "license": "MIT",
@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-ui/ui-calendar.git"
+    "url": "git://github.com/ukasiu/ui-calendar.git"
   }
 }
